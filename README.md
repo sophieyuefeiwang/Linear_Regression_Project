@@ -8,4 +8,4 @@ This project demonstrates a complete linear regression analysis on a medical cos
 5) Model selection process
 6) The final model of choice 
 
-A notebook containing all the codes for this project is also attached in this repository.
+A notebook containing all the supporting code for this project is also attached in this repository.
