@@ -1,6 +1,6 @@
 # Linear_Regression_Project
 
-In this project, me and my another teammate performed a complete linear regression analysis on a medical cost dataset. The project write-up includes in the following information:
+This project demonstrates a complete linear regression analysis on a medical cost dataset. The project write-up includes in the following information:
 1) Description of the dataset
 2) Statement of the research problems, and a summary of methods 
 3) Exploratory data analysis and visualizations 
