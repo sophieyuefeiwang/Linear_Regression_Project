@@ -1,4 +1,4 @@
-# Linear_Regression_Project
+# Linear Regression Project
 
 This project demonstrates a complete linear regression analysis on a medical cost dataset. The project write-up includes in the following information:
 1) Description of the dataset
